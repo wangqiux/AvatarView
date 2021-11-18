@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AvatarView">
+        <!--头像的半径,dp为单位-->
+        <attr name="radius" format="reference|integer" />
+        <!--外边框的宽度-->
+        <attr name="marginWidth" format="reference|integer" />
+        <!--头像间的距离，为头像直径的长度的百分比，dp为单位-->
+        <attr name="space" format="reference|float" />
+        <!--最多显示多少个头像-->
+        <attr name="maxCount" format="reference|integer" />
+        <!--是否最后一个显示完全,默认是true-->
+        <attr name="isLastComplete" format="reference|boolean" />
+        <!--是否显示动画效果-->
+        <attr name="isShowAnimation" format="reference|boolean" />
+        <!--是否显示边框-->
+        <attr name="isShowFrame" format="reference|boolean" />
+        <!--边框颜色-->
+        <attr name="frameColor" format="reference|color" />
+    </declare-styleable>
+</resources>
