@@ -1,6 +1,8 @@
 # AvatarView
 可折叠头像view,仿写直播间顶部头像折叠
 第一步 在project build文件中添加
+
+
 allprojects {
 		repositories {
 			...
