@@ -1,7 +1,10 @@
 # AvatarView
 可折叠头像view,仿写直播间顶部头像折叠
 
-![Screenshot_2021-11-19-10-45-21-625_com wqx avatar](https://user-images.githubusercontent.com/39547430/142556642-365feab9-afce-464b-abbf-96ddfe0b36e9.jpg)
+话不多说  上图
+
+![image](https://user-images.githubusercontent.com/39547430/142557702-42322844-8957-48dc-87cf-df13bc7c7d54.png)
+
 
 
 
