@@ -1,4 +1,4 @@
-package com.wqx.avatarproject.avatar;
+package com.wqx.avatar;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.wqx.avatarproject.avatar;
+package com.wqx.avatar;
 
 import android.content.Context;
 import android.util.TypedValue;

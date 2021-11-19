@@ -1,4 +1,4 @@
-package com.wqx.avatarproject.avatar;
+package com.wqx.avatar;
 
 /**
  * Created by wqx on 2019/2/15 0015.

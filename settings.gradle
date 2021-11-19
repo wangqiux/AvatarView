@@ -1,2 +1,3 @@
+include ':avatarView'
 include ':app'
 rootProject.name = "AvatarProject"

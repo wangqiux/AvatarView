@@ -1,4 +1,4 @@
-package com.wqx.avatarproject.avatar;
+package com.wqx.avatar;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -14,7 +14,7 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.wqx.avatarproject.R;
+import com.wqx.avatarview.R;
 
 import java.util.ArrayList;
 

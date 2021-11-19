@@ -1,16 +1,13 @@
 package com.wqx.avatarproject;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.AppCompatTextView;
 
 import android.os.Bundle;
-import android.os.Handler;
 import android.view.View;
 
-import com.wqx.avatarproject.avatar.AvatarView;
+import com.wqx.avatar.AvatarView;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
